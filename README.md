@@ -3,7 +3,7 @@ Adding ''CSGOEMPIRE.COM'' in your Steam name gives you an additional 10% on depo
 
 If you did not already add ‘’CSGOEMPIRE.COM’’ in your steam name, please do before following the instructions below. In order for us to properly get this information, you also need to log out from the website and then log back in. Be aware that changing your name back to its original, will also disable the 10% promotion on instant deposit.
 
-Instructions will follow,
+# Instructions will follow,
 
 Step one : Install Google Chrome.
 
