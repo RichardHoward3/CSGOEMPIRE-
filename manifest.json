@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "CSGOEMPIRE+",
+  "description": "Adding ''CSGOEMPIRE.COM'' in your Steam name gives you an additional 10% on deposit that are instant.",
+  "version": "0.3.1",
+
+  "content_scripts": [
+		{
+		"css": ["styles.css"],
+     "js": ["jquery.min.js", "content.js"],
+     "matches": ["https://csgoempire.com/*"]
+		}
+	]
+}

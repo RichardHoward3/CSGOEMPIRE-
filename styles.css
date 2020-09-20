@@ -1,0 +1,6 @@
+.item--instant-deposit .text-xxs.font-bold.text-light-grey-1::after { padding-left:5px; content: " (+10%)"; color:#10d960;}
+.trades-sidebar__trades .button-primary.button-primary--dark.px-2::after { padding-left:5px; content: " (+10%)"; color:#10d960;}
+.trade.p-4 .text-sm.text-light-grey-1::after { padding-left:5px; content: " (+10%)"; color:#10d960;}
+
+
+.mb-4.button-primary.button-primary--gold.button-primary--large.w-full {display: none !important;}
